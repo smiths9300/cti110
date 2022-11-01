@@ -3,4 +3,9 @@
 # smiths
 # 11/1/11
 
-# Aksthe user for 6 grades for
+# Ask the user for 6 grades for the 6 modules.
+# Add them to a list.
+
+grades = [0,0,0,0,0,0]
+
+#
